@@ -13,10 +13,10 @@ public class clearAll : MonoBehaviour {
 	// Use this for initialization
 	public void ClearAll () {
 		PlayerPrefs.SetInt ("hs1", 0);
-		PlayerPrefs.GetInt ("hs2", 0);
-		PlayerPrefs.GetInt ("hs3", 0);
-		PlayerPrefs.GetInt ("hs4", 0);
-		PlayerPrefs.GetInt ("hs5", 0);
+		PlayerPrefs.SetInt ("hs2", 0);
+		PlayerPrefs.SetInt ("hs3", 0);
+		PlayerPrefs.SetInt ("hs4", 0);
+		PlayerPrefs.SetInt ("hs5", 0);
 
 		hs1.text = "0";
 		hs2.text = "0";

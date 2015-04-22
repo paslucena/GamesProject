@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{9F37CD90-47DF-D6D5-1408-BE093CCD46AC}") = "Skitastic", "Assembly-CSharp-vs.csproj", "{1C840EB5-98A0-F472-8891-26B3D843A36F}"
+Project("{9F37CD90-47DF-D6D5-1408-BE093CCD46AC}") = "Skitastic", "Assembly-CSharp.csproj", "{1C840EB5-98A0-F472-8891-26B3D843A36F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
